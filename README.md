@@ -19,7 +19,7 @@
    
     1- We need the Web Serial API which provides a way for websites to read from and write to a serial device using JavaScript.
     
-    2- For connecting the web page to the serial port all you need is to make an input as a button in a web page and copy these lines in JavaScript.
+    2- For connecting the web page to the serial port all you need is to make an input type button in a web page and copy these lines in JavaScript.
     
     document.querySelector('input').addEventListener('click', async () => {
     
